@@ -1,0 +1,112 @@
+{
+  "name": "timeline",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "95376bf082bfec6ce06ea1cda7bd7ead",
+      "css": "up-big",
+      "code": 113,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ad6b3fbb5324abe71a9c0b6609cbb9f1",
+      "css": "right-big",
+      "code": 119,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "555ef8c86832e686fef85f7af2eb7cde",
+      "css": "left-big",
+      "code": 101,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1c4068ed75209e21af36017df8871802",
+      "css": "down-big",
+      "code": 114,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ce06b5805120d0c2f8d60cd3f1a4fdb5",
+      "css": "play",
+      "code": 116,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b624a1e512819d410ddbee84e6918b9d",
+      "css": "stop",
+      "code": 121,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0b28050bac9d3facf2f0226db643ece0",
+      "css": "pause",
+      "code": 117,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c47efa0e3e74f6ba4c2562c1258fff1f",
+      "css": "to-end",
+      "code": 105,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7ea35a8fc7e676c78e99cab2d4bc8653",
+      "css": "to-end-alt",
+      "code": 111,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "12052b30d23a1a70d6b32962d5464cae",
+      "css": "to-start",
+      "code": 112,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "6b5450145d620234f07ffcbfbb671074",
+      "css": "to-start-alt",
+      "code": 97,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4e511190b60f329d08301eb6869c5130",
+      "css": "fast-fw",
+      "code": 115,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b3d902fcead809e3a64c7ddcda497a6c",
+      "css": "fast-bw",
+      "code": 100,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d407a4707f719b042ed2ad28d2619d7e",
+      "css": "signal",
+      "code": 102,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2a4e6c99b732a57da40e32fa2a7800a4",
+      "css": "toggle-off",
+      "code": 103,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3256ef03b16e7ab51235bc7378b53bb5",
+      "css": "toggle-on",
+      "code": 104,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8e0220796066428d6ddea96a4f1b5131",
+      "css": "loop",
+      "code": 106,
+      "src": "entypo"
+    }
+  ]
+}
